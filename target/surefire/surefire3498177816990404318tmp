@@ -1,0 +1,36 @@
+#surefire
+#Mon Aug 05 23:27:01 CST 2013
+testClassesDirectory=E\:\\git\\GitSpringMvcTest\\target\\test-classes
+classPathUrl.4=D\:\\Maven\\repository\\org\\springframework\\spring-web\\3.2.3.RELEASE\\spring-web-3.2.3.RELEASE.jar
+classPathUrl.3=D\:\\Maven\\repository\\aopalliance\\aopalliance\\1.0\\aopalliance-1.0.jar
+classPathUrl.2=D\:\\Maven\\repository\\org\\springframework\\spring-aop\\3.2.3.RELEASE\\spring-aop-3.2.3.RELEASE.jar
+useManifestOnlyJar=true
+classPathUrl.1=E\:\\git\\GitSpringMvcTest\\target\\classes
+reportsDirectory=E\:\\git\\GitSpringMvcTest\\target\\surefire-reports
+classPathUrl.0=E\:\\git\\GitSpringMvcTest\\target\\test-classes
+dirscanner.0=directoryScannerOptions
+providerConfiguration=org.apache.maven.surefire.junit.JUnit3Provider
+testSuiteDefinitionTestSourceDirectory=E\:\\git\\GitSpringMvcTest\\src\\test\\java
+surefireClassPathUrl.1=D\:\\Maven\\repository\\org\\apache\\maven\\surefire\\surefire-api\\2.7.1\\surefire-api-2.7.1.jar
+surefireClassPathUrl.0=D\:\\Maven\\repository\\org\\apache\\maven\\surefire\\surefire-junit3\\2.7.1\\surefire-junit3-2.7.1.jar
+report.2=org.apache.maven.surefire.report.XMLReporter
+useSystemClassLoader=true
+report.1=org.apache.maven.surefire.report.BriefFileReporter
+report.0=org.apache.maven.surefire.report.ForkingConsoleReporter
+excludes0=**/*$*
+isTrimStackTrace=true
+dirscanner.0.params=E\:\\git\\GitSpringMvcTest\\target\\test-classes|[**/Test*.java, **/*Test.java, **/*TestCase.java]|[**/*$*]
+includes2=**/*TestCase.java
+enableAssertions=true
+includes1=**/*Test.java
+failIfNoTests=false
+includes0=**/Test*.java
+dirscanner.0.types=java.io.File|java.util.ArrayList|java.util.ArrayList
+classPathUrl.11=D\:\\Maven\\repository\\org\\mortbay\\jetty\\servlet-api\\2.5-6.0.1\\servlet-api-2.5-6.0.1.jar
+classPathUrl.10=D\:\\Maven\\repository\\commons-logging\\commons-logging\\1.1.1\\commons-logging-1.1.1.jar
+classPathUrl.9=D\:\\Maven\\repository\\org\\springframework\\spring-core\\3.2.3.RELEASE\\spring-core-3.2.3.RELEASE.jar
+classPathUrl.8=D\:\\Maven\\repository\\org\\springframework\\spring-expression\\3.2.3.RELEASE\\spring-expression-3.2.3.RELEASE.jar
+classPathUrl.7=D\:\\Maven\\repository\\org\\springframework\\spring-context\\3.2.3.RELEASE\\spring-context-3.2.3.RELEASE.jar
+childDelegation=false
+classPathUrl.6=D\:\\Maven\\repository\\org\\springframework\\spring-beans\\3.2.3.RELEASE\\spring-beans-3.2.3.RELEASE.jar
+classPathUrl.5=D\:\\Maven\\repository\\org\\springframework\\spring-context-support\\3.2.3.RELEASE\\spring-context-support-3.2.3.RELEASE.jar
